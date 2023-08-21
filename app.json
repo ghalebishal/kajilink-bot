@@ -1,12 +1,12 @@
 {
-    "name": "GPlink_Bot",
-    "description": "Make short link by using GPlink API key",
+    "name": "kajitestbot",
+    "description": "Make short link by using Kajilinks API key",
     "keywords": [
         "telegram",
-        "gplink"
+        "Kajilinks"
     ],
-    "website": "https://github.com/Mahesh0253/GPlink-bot",
-    "repository": "https://github.com/Mahesh0253/GPlink-bot",
+    "website": "https://github.com/ghalebishal/kajilink-bot",
+    "repository": "https://github.com/ghalebishal/kajilink-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
@@ -21,7 +21,7 @@
             "value": ""
         },
         "API_KEY": {
-            "description": "Get API key from https://gplinks.in/member/tools/api",
+            "description": "Get API key from https://kajilinks.xyz/member/tools/api",
             "value": ""
         }
     },
